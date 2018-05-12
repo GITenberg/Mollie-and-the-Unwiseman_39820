@@ -1,0 +1,42 @@
+_repo: Mollie-and-the-Unwiseman_39820
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Levering, Albert
+    birthdate: 1869
+    deathdate: 1929
+    gutenberg_agent_id: '25625'
+    url: http://www.gutenberg.org/2009/agents/25625
+  - agent_name: Dwiggins, Clare Victor
+    alias: Dwig
+    birthdate: 1874
+    deathdate: 1958
+    gutenberg_agent_id: '9038'
+    url: http://www.gutenberg.org/2009/agents/9038
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bangs, John Kendrick
+    birthdate: 1862
+    deathdate: 1922
+    gutenberg_agent_id: '979'
+    url: http://www.gutenberg.org/2009/agents/979
+    wikipedia: http://en.wikipedia.org/wiki/John_Kendrick_Bangs
+description: ''
+gutenberg_issued: '2012-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39820'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Playmates -- Juvenile fiction'
+- !lcsh 'Humorous stories'
+- !lcsh 'Toys -- Juvenile fiction'
+- !lcc 'PZ'
+title: Mollie and the Unwiseman
+url: http://www.gutenberg.org/ebooks/39820
